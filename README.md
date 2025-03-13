@@ -4,6 +4,9 @@
 
 This project presents an in-depth SQL analysis of Apple retail sales data, showcasing my ability to manipulate and extract insights from large datasets. The analysis covers sales performance, store operations, product trends, and warranty claim patterns, demonstrating expertise in SQL querying, database indexing, and business intelligence.
 
+![Screenshot (15)](https://github.com/user-attachments/assets/5feb8ab7-af40-476f-9e13-de8bca02437a)
+
+
 ## Dataset Information
 
 The analysis is based on five datasets:
