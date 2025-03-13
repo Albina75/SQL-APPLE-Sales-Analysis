@@ -1,4 +1,4 @@
-# SQL-APPLE-Sales-Analysis
+# SQL-APPLE-Sales( 1 million+ data)-Analysis
 
 ## Project Overview
 
